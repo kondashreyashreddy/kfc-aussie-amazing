@@ -1,5 +1,6 @@
 # HTML Stress Test
 ## Program
+This program is an experiment testing the limits of Code.org's Web Lab interface.
 ## Program Type
 Created in Code.org's Web Lab
 ## Program Creation Date
