@@ -1,1 +1,27 @@
+p{
+  color: darkgreen;
+}
+h1{
+  font-weight: bold;
+  font-style: italic;
+}
+body{
+  background-color: aquamarine;
+}
+img{
+  border-width: 1px;
+  border-style: dashed;
+  height: 500px;
+}
 
+.బస్సు-తెలుగు {
+  font-family: cursive;
+  font-size: 50px;
+}
+
+.container {
+  display: flex;
+  font-size: 60;
+  border-color: burlywood;
+  border-width: thick;
+}
